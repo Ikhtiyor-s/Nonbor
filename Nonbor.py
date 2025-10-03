@@ -105,14 +105,14 @@
       <!-- App Store -->
       <div class="store-box">
         <img src="appstore.png" alt="App Store">
-        <a href="https://apps.apple.com/nonbor_sotuvchi" target="_blank">📱 Sotuvchi ilova</a>
-        <a href="https://apps.apple.com/nonbor_mijoz" target="_blank">📱 Mijoz ilova</a>
+        <a href="https://apps.apple.com/uz/app/nonbor-business/id6743842538">📱 Sotuvchi ilova</a>
+        <a href="https://apps.apple.com/uz/app/nonbor/id6743315956">📱 Mijoz ilova</a>
       </div>
       <!-- Play Market -->
       <div class="store-box">
         <img src="playmarket.png" alt="Play Market">
-        <a href="https://play.google.com/store/apps/details?id=uz.welltech.nonborbusiness" target="_blank">📱 Sotuvchi ilova</a>
-        <a href="https://play.google.com/store/apps/details?id=uz.welltech.nonbor.nonboruz" target="_blank">📱 Mijoz ilova</a>
+        <a href="https://play.google.com/store/apps/details?id=uz.welltech.nonborbusiness&hl=ru" target="_blank">📱 Sotuvchi ilova</a>
+        <a href="https://play.google.com/store/apps/details?id=uz.welltech.nonbor.nonboruz&hl=ru">📱 Mijoz ilova</a>
       </div>
     </div>
 
@@ -121,3 +121,4 @@
   </div>
 </body>
 </html>
+
