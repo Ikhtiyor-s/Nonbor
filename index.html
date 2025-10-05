@@ -103,7 +103,24 @@
 
     <!-- Sotuvchi qo‘llanmasi -->
     <h2>📘 Sotuvchi qo‘llanmasi</h2>
-    <a class="btn pdf" href="merchant ru.pdf" target="_blank">📑 PDF qo‘llanma</a>
+   <a class="btn" href="#" onclick="openPDF()">📘 Sotuvchi qo‘llanmasi</a>
+
+<div id="pdfViewer" style="display:none; margin-top:20px;">
+    <iframe 
+        id="pdfFrame"
+        src="https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz12345/preview"
+        width="100%" 
+        height="600px" 
+        style="border:none; border-radius:12px;">
+    </iframe>
+</div>
+
+<script>
+function openPDF() {
+  document.getElementById('pdfViewer').style.display = 'block';
+}
+</script>
+
     <a class="btn video" href="https://drive.google.com/file/d/18CSNGdN3uT57ibaHhw01tFwbNkP0oZO3/preview" target="_blank">🎬 Video qo‘llanma</a>
 
     <!-- Mijoz qo‘llanmasi -->
@@ -136,6 +153,7 @@
 </div>
 </body>
 </html>
+
 
 
 
